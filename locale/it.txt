@@ -1,0 +1,13 @@
+#: locale=it
+
+## Media
+
+### Title
+panorama_5D99E499_5174_C49E_41C0_BC67DA628DAF.label = office_00001_reception
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 6
